@@ -31,7 +31,7 @@ const Footer = () => {
             <i class="fa-brands fa-discord  fa-xs"></i>
             </a>
 
-            <a href="e" className="footer__social-icon" target="_blank">
+            <a href="https://twitter.com/Feskyy_" className="footer__social-icon">
             <i class="fa-brands fa-twitter"></i>
             </a>
 

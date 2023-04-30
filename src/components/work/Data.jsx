@@ -1,11 +1,12 @@
 import Work1 from "../../assets/work1.jpg"
-import Work2 from "../../assets/work2.jpg"
+import Work2 from "../../assets/work2.jpg"  
 
 export const ProjectsData = [
     {
         id: 1,
         image: Work1,
         title: 'This Website',
+        description: 'siema',
         category: 'web'
     },
     {

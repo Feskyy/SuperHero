@@ -7,9 +7,6 @@ const WorkItems = ({item}) => {
             <h3 className='work__title'>
                 {item.title}
             </h3>
-            <a href="https://feskyy.xyz/" className='work__button'>
-                Demo   <i className='fa-solid fa-right-long work__button-icon'></i>
-            </a>
         </div>
     )
 }
