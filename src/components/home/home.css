@@ -1,6 +1,6 @@
 section {
     background-color: #131313 ;
-    height: 150vh;
+    height: 100vh;
 }
 
 html::-webkit-scrollbar {
@@ -79,6 +79,7 @@ html::-webkit-scrollbar-thumb {
     margin-bottom: var(--mb-0-25);
     cursor: pointer;
     color: white;
+    margin-left: -50%;
 }
 
 .home__hand {
