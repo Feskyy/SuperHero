@@ -49,7 +49,9 @@ html::-webkit-scrollbar-thumb {
 }
 
 .home__social {
-    display: grid;
+    display: flex;
+    position: absolute;
+    justify-content: center;
     grid-template-columns: max-content;
     row-gap: 1.9rem;
     align-items: center;
@@ -61,7 +63,6 @@ html::-webkit-scrollbar-thumb {
     column-gap: 10px;
     align-items: center;
     flex-direction: center;
-    display: flex;
     color: var(--title-color);
     transition: all .2s linear;
 }
