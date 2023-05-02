@@ -55,6 +55,7 @@ html::-webkit-scrollbar-thumb {
     row-gap: 1.9rem;
     align-items: center;
     flex-direction: center;
+    margin-left: 50%;
 }
 
 .home__social-icon {
