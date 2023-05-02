@@ -50,12 +50,12 @@ html::-webkit-scrollbar-thumb {
 
 .home__social {
     display: flex;
-    margin-top: 210%;
+    margin-top: 230%;
     grid-template-columns: max-content;
     row-gap: 1.9rem;
     align-items: center;
     flex-direction: center;
-    margin-left: 50%;
+    margin-left: 100%;
 }
 
 .home__social-icon {
