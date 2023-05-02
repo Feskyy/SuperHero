@@ -77,7 +77,7 @@ html::-webkit-scrollbar-thumb {
     margin-bottom: var(--mb-0-25);
     cursor: pointer;
     color: white;
-    margin-left: -30%;
+    margin-left: -40%;
 }
 
 .home__hand {
