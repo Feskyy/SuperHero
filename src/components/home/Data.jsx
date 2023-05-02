@@ -11,7 +11,7 @@ const Data = () => {
         Faskyy
                 
       </h1>
-      <h3 className='home__subtitle'>Front'eend Developer</h3>
+      <h3 className='home__subtitle'>Front'end Developer</h3>
       <p className='hom__description'>Hi! My name is Olivier and I am 15 years old. I've been learning programming for over a year and I'm doing quite well.</p>
       
     </div>
