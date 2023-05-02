@@ -50,7 +50,7 @@ html::-webkit-scrollbar-thumb {
 
 .home__social {
     display: flex;
-    margin-top: 140%;
+    margin-top: 160%;
     grid-template-columns: max-content;
     row-gap: 1.9rem;
     align-items: center;
