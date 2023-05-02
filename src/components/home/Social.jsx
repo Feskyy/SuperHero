@@ -9,7 +9,7 @@ const Social = () => {
             <i class="fa-brands fa-discord  fa-xs"></i>
             </a>
 
-            <a href="https://twitter.com/Feskyy_" className="home__social-icon" target="_blank">
+            <a href="https://twitter.com/Feskyy_" className="home__social-icon">
             <i class="fa-brands fa-twitter"></i>
             </a>
 
