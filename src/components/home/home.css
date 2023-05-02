@@ -49,7 +49,7 @@ html::-webkit-scrollbar-thumb {
 }
 
 .home__social {
-    display: flex;
+    display: grid;
     grid-template-columns: max-content;
     row-gap: 1.9rem;
     align-items: center;
