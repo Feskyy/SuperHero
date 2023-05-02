@@ -17,6 +17,10 @@ const Social = () => {
             <i class="fa-brands fa-github fa-sm"></i>
             </a>
 
+            <a href="https://www.buymeacoffee.com/feskyy" className="home__social-icon">
+            <i class="fa-sharp fa-light fa-cup-togo fa-sm"></i>
+            </a>
+
             
 
             
