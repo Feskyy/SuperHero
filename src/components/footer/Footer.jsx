@@ -39,10 +39,6 @@ const Footer = () => {
             <i class="fa-brands fa-github fa-sm"></i>
             </a>
 
-            <a href="https://github.com/Feskyy" className="footer__social-icon">
-            <i class="fa-solid fa-coffee-pot"></i>
-            </a>
-
 
             
         </div>
