@@ -10,6 +10,8 @@ const Work = () => {
             <span className='section__subtitle'>Most Recent works</span>
 
             <Works />
+
+            
         </section>
     )
 }

@@ -5,11 +5,11 @@ const Social = () => {
   return (
   
     <div className="home__social">
-            <a href="https://discord.com/users/1074625652453539860" className="home__social-icon">
+            <a href="https://discord.com/users/1074625652453539860" className="home__social-icon" target="_blank">
             <i class="fa-brands fa-discord  fa-xs"></i>
             </a>
 
-            <a href="e" className="home__social-icon" target="_blank">
+            <a href="https://twitter.com/Feskyy_" className="home__social-icon" target="_blank">
             <i class="fa-brands fa-twitter"></i>
             </a>
 
