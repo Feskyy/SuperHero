@@ -5,7 +5,6 @@ import "./navbar.css"
 
 const Navbar = () => {
   const [showMenu, setShowMenu] = useState(false);
-
   return (
     <nav className="nav">
       <div className={`${showMenu ? 'nav__menu show-menu' : 'nav__menu'}`}>
@@ -13,12 +12,17 @@ const Navbar = () => {
           {links.map(({name, icon, path}, index) => {
             return (
               <li className="nav__item" key={index}>
-                <NavLink to={path} className={({isActive}) => isActive ? 'nav__link active-nav' : 'nav__link'}>
-                  {icon}
-                  <h3 className="nav__name">{name}</h3>
+                <NavLink 
+                to={path} 
+                className={({ isActive }) => 
+                    isActive ? 'nav__link active-nav' : 'nav__link'
+                }
+              >
+                {icon}
+                <h3 className="nav__name">{name}</h3>
                 </NavLink>
               </li>
-            )
+            );
           })}
         </ul>
       </div>
@@ -27,7 +31,6 @@ const Navbar = () => {
       className={`${showMenu ? 'nav__toggle animate-toggle' : 'nav__toggle'}
       `}
       onClick={() => setShowMenu(!showMenu)}>
-        <span></span>
         <span></span>
         <span></span>
         <span></span>
