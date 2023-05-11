@@ -11,12 +11,12 @@ const Home = () => {
 
         <div className="home_content">
             <div className="home__data">
-                <h1 className="home__title"><span>I'mistrzU <br/> </span> Web Designer
+                <h1 className="home__title"><span>I'm Olivier D. <br/> </span> Web Designer
                 </h1>
 
 
                 <p className="home__description">
-                    Text
+                    UI Designer, Web developer, Creator of applications, websites, discord bots. Good Front'end Developer. I am passionate about programming 
                 </p>
 
                 <Link to='about' className='button'>

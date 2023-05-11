@@ -59,14 +59,14 @@ export const personalInfo = [
   {
     id: 1,
     title: 'First Name : ',
-    description: 'Tenis',
+    description: 'Olivier',
   },
 
 
   {
     id: 3,
     title: 'Age : ',
-    description: 'Year',
+    description: '15 Years',
   },
 
   {
@@ -78,13 +78,13 @@ export const personalInfo = [
   {
     id: 6,
     title: 'Address : ',
-    description: 'Wroclaw',
+    description: 'Opole',
   },
 
   {
     id: 5,
     title: 'Discord : ',
-    description: 'Discord',
+    description: 'Feskyy#9511',
   },
 
 
@@ -93,7 +93,7 @@ export const personalInfo = [
   {
     id: 8,
     title: 'Email : ',
-    description: 'mistrzutoja@gmail.com',
+    description: 'feskyykontakt@gmail.com',
   },
 
 
@@ -140,50 +140,50 @@ export const stats = [
 export const skills = [
   {
     id: 1,
-    title: 'Jezyk',
-    percentage: '100',
+    title: 'HTML',
+    percentage: '90',
   },
 
   {
     id: 2,
-    title: 'Jezyk',
-    percentage: '100',
+    title: 'CSS',
+    percentage: '85',
   },
 
   {
     id: 3,
-    title: 'Jezyk',
-    percentage: '100',
+    title: 'C++',
+    percentage: '70',
   },
 
   {
     id: 4,
-    title: 'Jezyk',
-    percentage: '100',
+    title: 'C#',
+    percentage: '50',
   },
 
   {
     id: 5,
-    title: 'Jezyk',
-    percentage: '100',
+    title: 'JavaScript',
+    percentage: '75',
   },
 
   {
     id: 6,
-    title: 'Jezyk',
-    percentage: '100',
+    title: 'React',
+    percentage: '85',
   },
 
   {
     id: 7,
-    title: 'Jezyk',
-    percentage: '100',
+    title: 'Python',
+    percentage: '90',
   },
 
   {
     id: 8,
-    title: 'Jezyk',
-    percentage: '100',
+    title: 'Nextjs',
+    percentage: '40',
   },
 ];
 
