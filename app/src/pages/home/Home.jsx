@@ -1,5 +1,5 @@
 import React from 'react'
-import Profile from "../../assets/purple.png"
+import Profile from "../../assets/logo.jpg"
 import { Link } from 'react-router-dom';
 import { FaArrowRight } from 'react-icons/fa';
 import "./home.css"
