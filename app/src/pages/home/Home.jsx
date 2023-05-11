@@ -1,5 +1,5 @@
 import React from 'react'
-import Profile from "../../assets/logo.jpg"
+import Profile from "../../assets/purple.png"
 import { Link } from 'react-router-dom';
 import { FaArrowRight } from 'react-icons/fa';
 import "./home.css"
@@ -11,15 +11,12 @@ const Home = () => {
 
         <div className="home_content">
             <div className="home__data">
-                <h1 className="home__title"><span>I'm Olivier D. <br/> </span> Web Designer
+                <h1 className="home__title"><span>I'mistrzU <br/> </span> Web Designer
                 </h1>
 
 
                 <p className="home__description">
-                    I'm a Tunisian based web designer & front'end developer focused on 
-                    crafting clean & user-friendly experiences, I am passionate about 
-                    building excellent software that improves the lives of those around 
-                    me.
+                    Text
                 </p>
 
                 <Link to='about' className='button'>
